@@ -22,8 +22,8 @@ export function Navbar() {
             <Image
               src="/city-boy-logo.png"
               alt="City Boy Movement Logo"
-              width={160}
-              height={60}
+              width={60}
+              height={30}
               className=""
               priority
             />
